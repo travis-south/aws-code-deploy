@@ -1,0 +1,14 @@
+{
+    "name": "travis/aws-code-deploy",
+    "description": "Hooks for aws code deploy.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Travis South",
+            "email": "irvin@capagcuan.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
